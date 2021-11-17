@@ -2,12 +2,10 @@ import React from "react";
 import NavBar from "../../components/navbar/navbar";
 import Footer from "../../components/footer/Footer";
 import SideBar from "../../components/sidebar/sidebar";
-import Cards from "../../components/card/Cards";
+import Cards from "../../components/EncontrarPet/CardsAdota";
 
 
-import "./home.css";
-
-function Home() {
+function Adotar() {
   return (
     <div className="App">
 
@@ -19,4 +17,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Adotar;

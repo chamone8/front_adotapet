@@ -43,12 +43,12 @@ import {
   
   export default function SmallWithSocial() {
     return (
-      <Box
-        bg={useColorModeValue('gray.50', 'gray.900')}
-        color={useColorModeValue('gray.700', 'gray.200')}>
+      <Box>
         <Container
+          className='fixed-bottom'
+          style={{backgroundColor: 'dimgrey',display: 'none', marginTop: '21px'}}
           as={Stack}
-          maxW={'6xl'}
+          maxW={'12xl'}
           py={4}
           direction={{ base: 'column', md: 'row' }}
           spacing={4}

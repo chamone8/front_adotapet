@@ -1,0 +1,57 @@
+.btn-primary {
+  display: inline;
+
+  color: black !important;
+  background-color: transparent !important;
+  border-color: transparent;
+}
+.Sidebar {
+  position: relative;
+  top: -166px;
+  font-size: 33px;
+  left: -42px;
+  width: 40px;
+  height: 40px;
+  color: #319795;
+}
+
+.css-2bpw4d {
+  color: #319795;
+}
+
+@media only screen and (max-width: 768px) {
+  .css-259i0c {
+    display: block;
+  }
+}
+
+.linkSideBar {
+  font-size: 30px;
+  position: relative;
+  left: 49px;
+  top: -26px;
+}
+
+.iconMenuSide {
+  margin-top: 10px;
+  font-size: 30px;
+  position: relative;
+  top: 9px;
+}
+
+.linha {
+  margin-top: 43px;
+  margin-left: 10px;
+}
+.iconLogin {
+  margin-left: 30px;
+}
+.fotoPerfil {
+  width: 118px;
+  border-radius: 57%;
+  margin-left: 25%;
+}
+.logout{
+  margin-left: 80px;
+  font-size: 20px;
+}

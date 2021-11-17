@@ -1,0 +1,17 @@
+.btn-primary {
+    border-color: #0d6 !important;
+    /* margin-top: 10px; */
+    margin-left: 14px;
+}
+
+.btn-primary:hover {
+    border-color: blue !important;
+}
+
+p.card-text:hover {
+    font-size: 18px;
+}
+
+p.card-text {
+    border-top: outset;
+}

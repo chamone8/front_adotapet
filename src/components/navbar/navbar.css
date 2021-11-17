@@ -1,0 +1,40 @@
+.css-hkokm9{
+    position: absolute !important;
+    
+}
+
+.iconMenu{
+    font-size: 42px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .css-259i0c {
+        display: block;
+    }
+  }
+
+  .css-259i0c {
+    position: fixed;
+}
+
+
+.imgLogo{
+    
+    position: relative;
+    bottom: 97px;
+    left: 40%;
+}
+@media only screen and (max-width: 769px) {
+    .imgLogo{
+    
+        position: relative;
+        bottom: 97px;
+        left: 30%;
+    }  
+  }
+/* .iconLogin{
+    position: relative;
+    font-size: 40px;
+}
+ */

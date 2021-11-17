@@ -1,0 +1,25 @@
+.container{
+    border: 1px solid black;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: inherit;
+    font-family: initial;
+}
+p{
+    font-family: Ubuntu;
+    color: #58595B;
+    font-weight: 400;
+    font-size: 16px;
+ 
+}
+.itensBody{
+    font-family: Ubuntu;
+    color: #58595B;
+    font-size: 19px;
+}
+.acessoLink{
+    display: -webkit-inline-box;
+    margin: auto;
+}

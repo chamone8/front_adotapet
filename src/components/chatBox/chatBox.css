@@ -1,0 +1,29 @@
+/* .chat{
+    border: 1px solid black;
+    border-radius:10px ;
+    max-height: 150px;
+    overflow-x: scroll;
+    height: 160px;
+} */
+.nomeChat{
+    float: right;
+    font-weight: 900;
+}
+.dateChat{
+    
+    float: right;
+    font-weight: 300;
+}
+
+.mensagemChat{
+    /* float: left; */
+    /* margin-top: 3px; */
+    border-bottom: 1px solid black
+}
+.chat {
+    border: 1px solid black;
+    border-radius: 10px;
+    /* max-height: 150px; */
+    overflow-x: scroll;
+    height: 429px;
+}

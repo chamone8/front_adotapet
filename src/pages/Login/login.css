@@ -1,7 +1,10 @@
 .chakra-form-control.css-1kxonj9 {
     color: white !important;
 }
-
+/* 
 body{
     background-color: black !important;
+} */
+input#password{
+    color: white !important;
 }
